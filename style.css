@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    background-color: gold;
+    padding:30px ;
+    text-transform: capitalize;
+}
