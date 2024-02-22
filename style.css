@@ -8,3 +8,9 @@ h1{
     padding:30px ;
     text-transform: capitalize;
 }
+h1{
+    text-align: center;
+    background-color: gold;
+    padding:30px ;
+    text-transform: capitalize;
+}
